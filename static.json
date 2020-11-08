@@ -1,7 +1,8 @@
 {
   "headers":{
   "/*":{
-    "X-Author":"anastasiiamakarova5"
+    "X-Author":"anastasiiamakarova5",
+    "Access-Control-Allow-Origin":"*"
     }
   }
 }
